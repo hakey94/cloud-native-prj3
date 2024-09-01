@@ -3,6 +3,8 @@
 ## Verify the monitoring installation
 
 See image follow path: Project_Starter_Files-Building_a_Metrics_Dashboard\solution-images\verify-pods.png
+See image follow path: Project_Starter_Files-Building_a_Metrics_Dashboard\solution-images\verify-pod-services.png
+See image follow path: Project_Starter_Files-Building_a_Metrics_Dashboard\solution-images\all-namespace.png
 
 ## Setup the Jaeger and Prometheus source
 See image follow path: Project_Starter_Files-Building_a_Metrics_Dashboard\solution-images\grafana-dashboard.png
@@ -74,3 +76,7 @@ Uptime - this KPI will help us to determine if response time is affected by down
 
 ## Final Dashboard
 relate to: solution-images/final-dashboard.png
+- success requests/minute:
+- error requests/minute
+- Avg response time/minute
+- Avg memory used/minute
